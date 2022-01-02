@@ -1,11 +1,11 @@
 # flyp-automation and scraper
 
-This project is built by Nodejs, and Puppeteer automation library. For client-side Reactjs is used.
+This project is developed by Nodejs and Puppeteer automation library. For client-side Reactjs is used.
 
-Poshmark provides json data for some endpoints, exp: https://poshmark.com/vm-rest/users/mollyskloset
+Poshmark provides json data for some endpoints, exp: https://poshmark.com/vm-rest/users/mollyskloset <br />
 Might not need to build scrape to get user informations but I developed it anyway.
 
-## running Project
+## Running Project
 
 In the project directory, you can run:
 ### `node index`
